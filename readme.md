@@ -7,7 +7,7 @@
 
 1. Compartmentalize : make everything as modular as possible
 2. Comment : use lots of comments. Use a """comment""" at the top of every function/class
-
+3. Commit messages : use commit messages to update project
 
 # File Structure
 
