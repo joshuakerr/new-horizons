@@ -9,6 +9,7 @@
 2. Comment : use lots of comments. Use a """comment""" at the top of every function/class
 3. Version control : use commit messages to update project
 
+
 ## File Structure
 
 | File             | Description                                            |
